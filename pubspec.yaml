@@ -32,7 +32,10 @@ dependencies:
     sdk: flutter
   dio: ^5.4.0
   logger: ^2.0.2
-
+  flutter_bloc: ^8.1.3
+  carousel_slider: ^4.2.1
+  flutter_svg: ^2.0.9
+  mask_text_input_formatter: ^2.8.0
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
@@ -60,6 +63,18 @@ flutter:
   # included with your application, so that you can use the icons in
   # the material Icons class.
   uses-material-design: true
+
+  assets:
+    - assets/images/hotel1.jpg
+    - assets/images/hotel2.jpg
+    - assets/images/hotel3.jpg
+    - assets/images/hotel4.jpg
+    - assets/images/hotel5.jpg
+    - assets/images/party.png
+    - assets/icons/close-square.svg
+    - assets/icons/emoji-happy.svg
+    - assets/icons/tick-square.svg
+    
 
   fonts: 
     - family: SFProDisplay
