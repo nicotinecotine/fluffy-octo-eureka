@@ -5,11 +5,11 @@ they said you can't mention the company name, so now it's company N.
 [Google Disk](https://drive.google.com/file/d/1BJ5fS12BG0xSJL2hCDQiKABVcZ8QJv79/view?usp=sharing)
 
 ## Libraries & Tools:
-* [provider](https://pub.dev/packages/provider) (State Management)
+* [flutter_bloc](https://pub.dev/packages/flutter_bloc) (State Management)
 * [dio](https://pub.dev/packages/dio) (network calls)
-* [intl](https://pub.dev/packages/intl) (localization)
-* [shared_preferences](https://pub.dev/packages/shared_preferences) (local storage)
+* [logger](https://pub.dev/packages/logger) (logging)
+* [carousel_slider](https://pub.dev/packages/carousel_slider) (slide_effects)
 
 ## Demonstration:
-<iframe width="560" height="315" src="(https://youtube.com/shorts/YpByKb1vGjw?feature=share)https://youtube.com/shorts/YpByKb1vGjw?feature=shareО" frameborder="0" allowfullscreen></iframe>
+[YouTube](https://youtube.com/shorts/YpByKb1vGjw?feature=share)
 
